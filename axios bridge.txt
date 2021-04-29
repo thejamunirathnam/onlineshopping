@@ -1,0 +1,100 @@
+Shriniwas Nakka1:30 PM
+https://sass-lang.com/documentation
+Shriniwas Nakka1:44 PM
+let data = {
+            "firstName": this.state.firt,
+            "lastName": this.state.las,
+            "email": "jhdb@gmail.com",
+            "service": "advance",
+            "password": "jsbfvjhdbf"
+        }
+Shriniwas Nakka1:46 PM
+baseUrl = "http://fundoonotes.incubation.bridgelabz.com/api/"
+
+/user/userSignUp
+registration
+
+/user/login
+login
+
+/user/reset
+forgot pasword
+
+/user/reset-password
+Shriniwas Nakka1:47 PM
+
+reset password
+http://fundoonotes.incubation.bridgelabz.com/explorer/#!/user/user_userSignUp
+
+https://meet.google.com/wme-dbdm-zbn
+
+https://github.com/sudheerj/reactjs-interview-questions
+
+Debugging using developer tools, SSR
+Performance Optimization using Chrome Lighthouse
+Test cases using Karma & Jasmine
+AOT and Ivy
+OpenID Connect
+Build Tool - Webpack / Grunt
+
+
+https://youtu.be/JsNhbvVGfek
+app debug
+https://www.youtube.com/watch?v=AcuzemsJfxA
+openId Connect
+
+https://youtu.be/Q-X_ED4LHrQ?t=1
+lighthouse
+
+// js array helper 
+https://voonminghann.medium.com/array-helper-methods-in-es6-412dbc3f845bv
+
+
+Shriniwas Nakka10:04 AM
+https://voonminghann.medium.com/array-helper-methods-in-es6-412dbc3f845b
+prototype
+currying function
+callback
+promises
+Shriniwas Nakka10:05 AM
+closure
+async await
+higher order function
+Shriniwas Nakka10:17 AM
+https://xd.adobe.com/view/d096df37-ca37-4026-553f-8cfa6bec09ec-a6a7/specs/
+https://xd.adobe.com/view/c8eb4173-5b7d-4d5d-742f-6ba4ea14df5f-beda/
+Shriniwas Nakka10:25 AM
+https://dzone.com/articles/angular-server-side-rendering-ssr-made-easy-with-a
+Shriniwas Nakka10:31 AM
+https://blog.asayer.io/how-to-debug-angular-apps-with-chrome-devtools
+Shriniwas Nakka10:33 AM
+https://medium.com/@vamsivempati/a-guide-to-debugging-angular-applications-5a36bd88b4cf
+https://youtu.be/H8GrzgQS-6c
+Shriniwas Nakka10:37 AM
+https://www.youtube.com/watch?v=Y0-qdp-XBJg&t=195s
+
+
+Git add, commit, merge, clone, push and pull (pr requests)
+Profiler
+Graph QL understanding
+Context API
+Redux
+Props and hooks
+Build tools like webpack
+CSS build tools like ESlint
+Optimistic UI for caching
+Vim editor to build/run react apps
+
+
+
+Shriniwas Nakka10:38 AM
+https://codesandbox.io/s/9on71rvnyo
+Shriniwas Nakka11:01 AM
+https://youtu.be/deyxI-6C2u4
+https://medium.com/@premal.katigar/how-to-create-a-react-app-from-scratch-using-webpack-4-f9c1ca974dc6
+vim editor
+Shriniwas Nakka11:08 AM
+https://medium.com/edge-coders/the-difference-between-flux-and-redux-71d31b118c1
+Shriniwas Nakka11:17 AM
+
+Git add, commit, merge, clone, push and pull (pr requests)
